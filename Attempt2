@@ -1,3 +1,4 @@
+//https://www.youtube.com/watch?v=ymWJO7ZT6ww  tutorial by miachael shackleford used to create blackjack game
 #include <iostream>
 using namespace std;
 double player_stand(int ptot, int pace, int cards, int deck[]);
